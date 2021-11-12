@@ -1,5 +1,6 @@
 Title
-Michal Scott Daniel
+Michael Rapciak, Scott Mitchell, Daniel Mendioza
+
 
 Elevator pitch 
 Describe your game in 30 seconds or less
