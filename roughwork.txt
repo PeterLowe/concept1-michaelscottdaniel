@@ -3,10 +3,15 @@ Michael Rapciak, Scott Mitchell, Daniel Mendioza
 
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+Need For Speed In Space will be an action racing game set in the vast danger of space.
+You will have to upgrade your vehicle to last longer in space races as you try and become the
+greatest driver to do it in this new frontier of racing.
 ...
 World Background
-main differences in your game world
+The world will be based on the outer space. It will include tracks on asteroid belts and space ships.
+The society is more advanced than ours but the technology is not extremely developed - Low Sci-Fi.
+The setting of the story will be a very competitive one - fighting for the top prize of being the
+best driver in the world and getting the biggest prizes.
 ...
 Pillars
 3-4 fundementals of this game
