@@ -9,10 +9,13 @@ World Background
 main differences in your game world
 ...
 Pillars
-3-4 fundementals of this game
+Satisfying sence of speed, graphics that sell the rocket motion, tight controls to match
+the fantay of greater speeds than our world
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+The game experience resembles the known franchise Need for Speed but in this installment
+the adrenaline comes with rocket propelled shutters going at greater velocity which makes
+the gameplay interesting and dangerously addictive.
 ...
 Features points
 key selling points of your game
